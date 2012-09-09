@@ -38,7 +38,7 @@ Please note that there are translations missing in development mode if you don't
 * now supports error-specfic styling, e.g.:
     .err_merchant
     {
-      &.404
+      &.error_404
       {
 
       }
