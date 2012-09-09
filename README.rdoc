@@ -35,7 +35,7 @@ Please note that there are translations missing in development mode if you don't
 
 == Changelog
 === 0.2.1 (2012-09-09)
-* now supports error-specfic styling, e.g.:
+* now supports error-specific styling, e.g.:
     .err_merchant
     {
       &.error_404
