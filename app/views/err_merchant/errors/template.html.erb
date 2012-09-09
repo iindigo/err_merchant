@@ -1,4 +1,4 @@
-<div class='err_merchant <%= status_code %>'>
+<div class='err_merchant error_<%= status_code %>'>
   <h2><%= I18n.t(:"err_merchant.#{status_code}.title", :default => :"err_merchant.500.title") %></h2>
   <p><%= I18n.t(:"err_merchant.#{status_code}.description", :default => :"err_merchant.500.description") %></p>
 </div>
